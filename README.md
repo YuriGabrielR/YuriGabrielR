@@ -1,7 +1,7 @@
 👨🏽‍💻 Olá! Eu sou o Yuri, tudo bem ?!! 👋
 
 
-- 👨🏽 Hoje, por ora, não trabalho na área, estou busando meu espaço.
+- 👨🏽 Trabalhando em projetos, porém não atuante na área. 
 - 📚 Estudando HTML/CSS e JavaScript, em breve irei iniciar meus estudos em ReactJs
 - 📧 Contate-me no email: yurigabriel21@yahoo.com
 
