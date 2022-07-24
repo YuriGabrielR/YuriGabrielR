@@ -2,7 +2,7 @@
 
 
 - 👨🏽 Trabalhando em projetos, porém não atuante na área. 
-- 📚 Estudando HTML/CSS e JavaScript, em breve irei iniciar meus estudos em ReactJs e VueJS
+- 📚 Estudando HTML/CSS e JavaScript, aprofundando estudos em  VueJS e posteriormente --> ReactJs 
 - 📧 Contate-me no email: yurigabriel21@yahoo.com
 
 <div align="center">
