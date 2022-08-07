@@ -31,7 +31,9 @@ src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-
 ### Redes Sociais
 
 <p align="left"> 
- <a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/yurigabrielramos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+ <a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/yurigabrielramos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <a href="https://wa.me/5512981946294" target="_blank" rel="noreferrer"><img src= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -39,9 +41,6 @@ src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-
 
 <a href="http://www.github.com/YuriGabrielR"><img src="https://github-readme-stats-YuriGabrielR.vercel.app/api?username=YuriGabrielR&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="YuriGabrielR GitHub stats" /></a>
 
-<a href="http://www.github.com/YuriGabrielR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/YuriGabrielR"><img src="https://activity-graph.herokuapp.com/graph?username=peguimasid&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/YuriGabrielR" align="left"><img src="https://github-readme-stats-YuriGabrielR.vercel.app/api/top-langs/?username=YuriGabrielR&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
