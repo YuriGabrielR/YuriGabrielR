@@ -13,7 +13,7 @@ Sou um desenvolvedor de 21 anos e tive o meu primeiro contato com programação 
 * 🚀  Procuro minha primeira oportunidade como desenvolvedor Junior
 * 🧠  Atualmente estudando Java Script e aprofundando estudos em VueJs
 * 🚀  Após conhecimentos sólidos em JavaScript meu objetivo é desenvolver aplicações com VueJS e ReactJs
-* ⚡  Nas horas vagas gosto de fazer musculação e de vez em quando tirar uma gameplay com amigos, rs!
+* ⚡  Nas horas vagas gosto de acompanhar o Palmeiras e de vez em quando tirar uma gameplay com amigos, rs!
 
 <a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
