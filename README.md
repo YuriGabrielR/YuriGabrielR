@@ -44,6 +44,5 @@ src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-
 
 <a href="https://github.com/YuriGabrielR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGabrielR&layout=compact&title_color=3382ed&text_color=73e279&icon_color=73e279&bg_color=171c24&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Será um prazer conversar com você, te garanto que tenho muito a agregar!👋
 
-<a href="https://www.buymeacoffee.com/YuriGabrielR"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
