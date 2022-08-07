@@ -12,6 +12,7 @@ Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas.
 * ✉️  You can contact me at [yurigabriel21@yahoo.com](mailto:yurigabriel21@yahoo.com)
 * 🚀  Procuro minha primeira oportunidade como desenvolvedor Junior
 * 🧠  Atualmente estudando Java Script e aprofundando estudos em VueJs
+* 🚀  Após conhecimentos sólidos em JavaScript meu objetivo é desenvolver aplicações com VueJS e ReactJs
 * ⚡  Nas horas vagas gosto de fazer musculação e de vez em quando tirar uma gameplay com amigos, rs!
 
 <a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img
@@ -27,9 +28,10 @@ src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   
 
-### Socials
+### Redes Sociais
 
-<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+ <a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/yurigabrielramos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
