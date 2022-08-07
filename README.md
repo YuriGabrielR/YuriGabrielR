@@ -39,10 +39,10 @@ src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/YuriGabrielR"><img src="https://github-readme-stats.vercel.app/api?username=YuriGabrielR&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=green&bg_color=171717&hide_border=true&show_icons=true" alt="YuriGabrielR GitHub stats" /></a>
+<a href="http://www.github.com/YuriGabrielR"><img src="https://github-readme-stats.vercel.app/api?username=YuriGabrielR&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=green&bg_color=171c24&hide_border=true&show_icons=true" alt="YuriGabrielR GitHub stats" /></a>
 
 
-<a href="https://github.com/YuriGabrielR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGabrielR&layout=compact&title_color=3382ed&text_color=73e279&icon_color=73e279&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/YuriGabrielR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGabrielR&layout=compact&title_color=3382ed&text_color=73e279&icon_color=73e279&bg_color=171c24&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
