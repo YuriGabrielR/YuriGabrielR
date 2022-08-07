@@ -1,21 +1,20 @@
-Hi 👋 My name is Guilhermo
+Olá! 👋 Meu nome é Yuri!
 ==========================
 
-Full Stack Software Developer
+Front End Developer
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Sou um desenvolvedor de 21 anos e tive o meu primeiro contato com programação quando estava realizando um curso profissionalizante de designer gráfico, me recordo que ao finaliza-lo, a instituição me comunicou que faltavam horas para completar a carga horária total do contrato, com isso, me propuseram alguns cursos a fim de conseguirmos complementar as horas faltantes, dentre as opções, havia o curso de Lógica de Programação, sem conhecer e nunca ter visto, o escolhi, e hoje tenho absoluta certeza que foi a melhor decisão que tomei na minha vida!
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [44 campus in 26 countries](https://www.42network.org/42-schools/).
+Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Rust and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍  Moro em São José dos Campos, São Paulo - Brasil
+* ✉️  You can contact me at [yurigabriel21@yahoo.com](mailto:yurigabriel21@yahoo.com)
+* 🚀  Procuro minha primeira oportunidade como desenvolvedor Junior
+* 🧠  Atualmente estudando Java Script e aprofundando estudos em VueJs
+* ⚡  Nas horas vagas gosto de fazer musculação e de vez em quando tirar uma gameplay com amigos, rs!
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
