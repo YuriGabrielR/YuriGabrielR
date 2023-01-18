@@ -9,7 +9,7 @@ Sou um desenvolvedor de 22 anos e tive o meu primeiro contato com programação 
 🚀 Estou no último período do curso de Análise e Desenvolvimento de Sistemas.
 
 * 🌍  Moro em São José dos Campos, São Paulo - Brasil
-* ✉️  You can contact me at [yurigabriel21@yahoo.com](mailto:yurigabriel21@yahoo.com)
+* ✉️  YVocê pode me contatar também pelo email: [yurigabriel21@yahoo.com](mailto:yurigabriel21@yahoo.com)
 * 🧠  Desenvolvo aplicações em JavaScript e ReactJS
 * 🚀  Buscando sempre me aprimorar fora das linguagens de programação, estudando sobre metodologias ágeis e Experiência do Usuário.
 * ⚡  Nas horas vagas gosto de acompanhar o Palmeiras e de vez em quando tirar uma gameplay com amigos, rs!
