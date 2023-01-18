@@ -14,8 +14,6 @@ Sou um desenvolvedor de 22 anos e tive o meu primeiro contato com programação 
 * 🚀  Buscando sempre me aprimorar fora das linguagens de programação, estudando sobre metodologias ágeis e Experiência do Usuário.
 * ⚡  Nas horas vagas gosto de acompanhar o Palmeiras e de vez em quando tirar uma gameplay com amigos, rs!
 
-<a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/YuriGabrielR?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Habilidades
 
