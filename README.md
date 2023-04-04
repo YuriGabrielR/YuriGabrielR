@@ -3,10 +3,15 @@ Olá! 👋 Meu nome é Yuri!
 
 Front End Developer
 -----------------------------
+Olá! Meu nome é Yuri, sou desenvolvedor Front-End Junior. 
 
-Sou um desenvolvedor de 22 anos e tive o meu primeiro contato com programação quando estava realizando um curso profissionalizante de designer gráfico, me recordo que ao finaliza-lo, a instituição me comunicou que faltavam horas para completar a carga horária total do contrato, com isso, me propuseram alguns cursos a fim de conseguirmos complementar as horas faltantes, dentre as opções, havia o curso de Lógica de Programação, sem conhecer e nunca ter visto, o escolhi, e hoje tenho absoluta certeza que foi a melhor decisão que tomei na minha vida!
+Desenvolvo aplicações Front-End com experiência em GIT, HTML, CSS, SASS, JavaScript e TypeScript. Possuo habilidades em desenvolvimento de interfaces responsivas e acessíveis para web e mobile. Além disso, tenho conhecimento em React, uma das principais bibliotecas JavaScript para construção de páginas web. 
 
-🚀 Estou no último período do curso de Análise e Desenvolvimento de Sistemas.
+Estou em busca de uma oportunidade para aplicar meus conhecimentos em projetos desafiadores e colaborar com uma equipe dinâmica e inovadora.
+
+Resiliência é a palavra que define toda minha trajetória até aqui, tanto no âmbito pessoal mas como também no profissional
+
+🚀 Sou formado em Análise e Desenvolvimento de Sistemas.
 
 * 🌍  Moro em São José dos Campos, São Paulo - Brasil
 * ✉️  Você pode me contatar também pelo email: [yurigabriel21@yahoo.com](mailto:yurigabriel21@yahoo.com)
