@@ -1,4 +1,4 @@
-Olá! 👋 Bem vindo(a)!! 
+Olá! 👋 Bem vindo(a)!! 😁
 ==========================
 ⚡👨🏽‍💻 Meu nome é Yuri, sou desenvolvedor Front-End.
 -----------------------------
