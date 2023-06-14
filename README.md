@@ -29,8 +29,6 @@ Hoje, atuo trabalho como freelancer criando páginas web responsivas, animadas e
 
 ### 🌐🤵🏽‍ Redes Sociais 
 <p align="left"> 
-
- <a href="https://www.github.com/YuriGabrielR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="www.linkedin.com/in/yurigabrielramos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  <a href="https://wa.me/5512981946294" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" height="32" /></a>
   
