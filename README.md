@@ -3,7 +3,7 @@ Olá! 👋 Meu nome é Yuri!
 
 Front End Developer
 -----------------------------
-Olá! Meu nome é Yuri, sou desenvolvedor Front-End Junior. 
+Olá! Meu nome é Yuri, sou desenvolvedor Front-End
 
 Desenvolvo aplicações Front-End com experiência em GIT, HTML, CSS, SASS, JavaScript e TypeScript. Possuo habilidades em desenvolvimento de interfaces responsivas e acessíveis para web e mobile. Além disso, tenho conhecimento em React, uma das principais bibliotecas JavaScript para construção de páginas web. 
 
