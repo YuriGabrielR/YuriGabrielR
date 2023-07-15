@@ -3,8 +3,9 @@ Olá! 👋 Bem vindo(a)!! 😁
 ⚡👨🏽‍💻 Meu nome é Yuri, sou desenvolvedor Front-End.
 -----------------------------
 
-🎯 Desenvolvo aplicações Front-End com experiência nas tecs: GIT, HTML, CSS, SASS, JavaScript, TypeScript, ReactJS & Styled Components. 
-Hoje, atuo trabalho como freelancer criando páginas web responsivas, animadas e modernas, todas com alinhamento prévio com o cliente, fazendo com que o mesmo se sinta satisfeito com o resultado final. 
+🎯 Desenvolvo aplicações Front-End com experiência nas tecs: GIT, HTML, CSS, SASS, JavaScript, TypeScript e ReactJS, além de adicionar em minhas aplicações, meus conhecimentos acerca de bibliotecas de estilizações como Styled Components (CSS in JS), Framer Motion para criação de animações e transições, componentes de interface do usuário disponibilizado pela biblioteca Material UI e Gerenciamento de Rotas e Navegação do User utilizando a lib React Router.
+
+Hoje, atuo trabalho como freelancer criando páginas web responsivas, animadas e que priorizam a boa experiência do usuário.
 
 💭 Além disso...
 
