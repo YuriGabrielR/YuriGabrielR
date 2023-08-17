@@ -41,5 +41,4 @@ Hoje, atuo trabalho como freelancer criando páginas web responsivas, animadas e
 
 <a href="https://github.com/YuriGabrielR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGabrielR&layout=compact&title_color=46ce6a&text_color=73e279&icon_color=46ce6a&bg_color=171c24&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Será um prazer conversar com você, te garanto que tenho muito a agregar!👋
 
