@@ -1,44 +1,69 @@
-Olá! 👋 Bem vindo(a)!! 😁
-==========================
-⚡👨🏽‍💻 Meu nome é Yuri, sou desenvolvedor Front-End.
------------------------------
+<h1 align="left">Olá 👋 meu nome é Yuri!</h1>
 
-🎯 Desenvolvo aplicações Front-End com experiência nas tecs: GIT, HTML, CSS, SASS, JavaScript, TypeScript e ReactJS, além de adicionar em minhas aplicações, meus conhecimentos acerca de bibliotecas de estilizações como Styled Components (CSS in JS), Framer Motion para criação de animações e transições, componentes de interface do usuário disponibilizado pela biblioteca Material UI e Gerenciamento de Rotas e Navegação do User utilizando a lib React Router.
+###
 
-Hoje, atuo trabalho como freelancer criando páginas web responsivas, animadas e que priorizam a boa experiência do usuário.
+<p align="left">👨🏽‍💻 Sou desenvolvedor front-end atuando como freelancer há 11 meses. Obtenho proficiência em JavaScript utilizando-o juntamente do TypeScript e React.<br><br>🎯 Apesar do front-end ser minha stack principal, tenho estudado e criado aplicações back-end com NodeJS.</p>
 
-💭 Além disso...
+###
 
-* 🚀 Sou formado em Análise e Desenvolvimento de Sistemas.
-* 🌍 Moro em São José dos Campos, São Paulo - Brasil
-* ✉️ Você pode me contatar pelo email: [yurigabriel21@yahoo.com](mailto:yurigabriel21@yahoo.com)
-* 📱  Ou pelo meu telefone: (12) 98194-6294 
+<h2 align="left">Mais sobre mim</h2>
 
------------------------------
-### 🧠 Skills (Habilidades)
+###
 
-<p style="display: inline_block">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="html5" /></a> 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a>
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="sass"/></a>
-  <a href="https://git-scm.com/" target="_blank" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="Reactjs" /></a>
- 
------------------------------
+<p align="left">🚀 Estudando para me tornar Fullstack.<br>📚 Formado em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
 
-### 🌐🤵🏽‍ Redes Sociais 
-<p align="left"> 
-  <a href="www.linkedin.com/in/yurigabrielramos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
- <a href="https://wa.me/5512981946294" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" height="32" /></a>
-  
- -----------------------------
-### 📊<b> My GitHub Stats </b>
+###
 
-<a href="http://www.github.com/YuriGabrielR"><img src="https://github-readme-stats.vercel.app/api?username=YuriGabrielR&show_icons=true&hide=&count_private=true&title_color=46ce6a&text_color=ffffff&icon_color=46ce6a&bg_color=171c24&hide_border=true&show_icons=true" alt="YuriGabrielR GitHub stats" /></a>
+<h2 align="left">Crio aplicações com:</h2>
 
+###
 
-<a href="https://github.com/YuriGabrielR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGabrielR&layout=compact&title_color=46ce6a&text_color=73e279&icon_color=46ce6a&bg_color=171c24&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
+###
 
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yurigabrielramos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<h2 align="left">Github Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriGabrielR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriGabrielR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
