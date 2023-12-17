@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Sou desenvolvedor Fullstack atuando como freelancer há 11 meses. Obtenho proficiência em JavaScript utilizando-o juntamente do TypeScript, NodeJS e React.<br><br
+<p align="left">👨🏽‍💻 Sou desenvolvedor Fullstack atuando como freelancer há 11 meses. Obtenho proficiência em JavaScript utilizando as tecnologias: TypeScript, NodeJS e React.<br><br
 
 ###
 
