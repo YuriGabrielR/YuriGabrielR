@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Sou desenvolvedor front-end atuando como freelancer há 11 meses. Obtenho proficiência em JavaScript utilizando-o juntamente do TypeScript e React.<br><br>🎯 Apesar do front-end ser minha stack principal, tenho estudado e criado aplicações back-end com NodeJS.</p>
+<p align="left">👨🏽‍💻 Sou desenvolvedor Fullstack atuando como freelancer há 11 meses. Obtenho proficiência em JavaScript utilizando-o juntamente do TypeScript, NodeJS e React.<br><br
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Estudando para me tornar Fullstack.<br>📚 Formado em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
+<p align="left"><br>📚 Formado em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
 
 ###
 
