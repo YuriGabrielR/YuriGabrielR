@@ -2,21 +2,18 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Desenvolvedor Fullstack. Obtenho proficiência em JavaScript utilizando as tecnologias: TypeScript, NodeJS e React.<br><br
+<p align="left">👨🏽‍💻 Sou Desenvolvedor Fullstack com 1 ano e meio de experiência, minha principal tecnologia é o JavaScript, mas tenho criado aplicações e aprofundando conhecimentos em criações de Api's e serviços utilizando Java juntamente do framework Spring Boot. <br><br
 
 ###
-
 <h2 align="left">Mais sobre mim</h2>
 
 ###
 
-<p align="left"><br>📚 Formado em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
+<p align="left"> 📚 Formado em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
 
 ###
 
-<h2 align="left">Crio aplicações com:</h2>
-
-###
+<h2 align="left"> <strong> Com JavaScript crio aplicações utilizando as tecnologias: </strong></h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -43,6 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+</div>
+
+###
+
+<h2 align="left">Com Java crio aplicações utilizando as tecnologias:</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,idea,postman" height="40" alt="html5 logo"  />
 </div>
 
 ###
