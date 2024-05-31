@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Sou Desenvolvedor Fullstack com 1 ano e meio de experiência, minha principal tecnologia é o JavaScript, mas tenho criado aplicações e aprofundando conhecimentos em criações de Api's e serviços utilizando Java juntamente do framework Spring Boot. <br><br
+<p align="left">👨🏽‍💻 Sou Desenvolvedor Fullstack com 1 ano e meio de experiência, minha principal tecnologia é o JavaScript, mas tenho criado aplicações e aprofundado conhecimentos em criações de Api's e serviços utilizando Java juntamente do framework Spring Boot. <br><br
 
 ###
 <h2 align="left">Mais sobre mim</h2>
