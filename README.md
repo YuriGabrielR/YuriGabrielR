@@ -3,13 +3,9 @@
 ###
 
 <p align="left">👨🏽‍💻 Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas com quase 2 anos de experiência atuando com Java, Spring Boot, Hibernate, JavaScript, Typescript, NodeJS e React.  <br><br
-
-###
-<h2 align="left">Mais sobre mim</h2>
-
 ###
 
-<p align="left"> 📚 Formado em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
+<p align="left"> 📚 Em 2023, me formei em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294</p>
 
 ###
 
