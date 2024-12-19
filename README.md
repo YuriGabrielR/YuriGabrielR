@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Desenvolvedor com experiência Fullstack, hoje atuo com JavaScript, mas obtenho proficiência na linguagem Java juntamente do framework Spring Boot e Jakarta EE. <br><br
+<p align="left">👨🏽‍💻 Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas com quase 2 anos de experiência atuando com Java, Spring Boot, Hibernate, JavaScript, Typescript, NodeJS e React.  <br><br
 
 ###
 <h2 align="left">Mais sobre mim</h2>
