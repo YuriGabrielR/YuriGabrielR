@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas com quase 2 anos de experiência atuando com Java, Spring Boot, Hibernate, JavaScript, Typescript, NodeJS, Express, MySQL, PostgreSQL, AWS e React.  <br><br
+<p align="left">👨🏽‍💻 Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas com quase 2 anos de experiência atuando com Java, Spring Boot, Hibernate, JavaScript, Typescript, NodeJS, Express, MySQL, PostgreSQL, AWS e React. Crio também, aplicativos mobile utilizando Android SDK e Kotlin.  <br><br
 ###
 
 <p align="left"> 📚 Em 2023, me formei em Análise e Desenvolvimento de Sistemas..<br>🌍 Moro em São José dos Campos, São Paulo - Brasil<br>✉️ Meu e-mail é: yurigabriel21@yahoo.com<br>📱 Telefone: (12) 98194-6294 <br>🎨 Clique <a href="https://yuriramos-dev.vercel.app/">Aqui</a> para acessar meu <strong>PORTFÓLIO!</strong> <br></p>
@@ -43,6 +43,16 @@
 <h2 align="left">Com Java crio aplicações utilizando as tecnologias:</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,idea,postman" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+
+###
+<h2 align="left">Experiência com Desenvolvimento mobile Android com: </h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg"  height="200"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg"  height="120"  />
 </div>
 
 ###
